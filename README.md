@@ -15,5 +15,7 @@
 | Linux_Tutorial   | [Link](LinuxTutorial.md)      |
 |Engineering Readings   | [Link](EngineeringReadings.md)      |
 |Class02 | [Link](Class02.md)      |
+|Class03 | [Link](Class03.md)      |
+
 
 ## 1. Data Structures and Algorithms
