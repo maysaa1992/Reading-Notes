@@ -11,9 +11,9 @@
 | -----------| ----------- |
 | class01      | [Link](Class01.md)       |
 | Data Base   | [Link](databases.md)      |
-| Data Structures and Algorithms | [Link](#DataStructuresandAlgorithms.md)      |
-| Linux_Tutorial   | [Link](#LinuxTutorial.md)      |
-|Engineering Readings   | [Link](#EngineeringReadings.md)      |
-|Class02 | [Link](#Reading:Class02.md)      |
+| Data Structures and Algorithms | [Link](DataStructuresandAlgorithms.md)      |
+| Linux_Tutorial   | [Link](LinuxTutorial.md)      |
+|Engineering Readings   | [Link](EngineeringReadings.md)      |
+|Class02 | [Link](Class02.md)      |
 
 ## 1. Data Structures and Algorithms
