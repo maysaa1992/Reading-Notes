@@ -66,7 +66,7 @@ This reads from the file based on the number of size bytes. If no argument is pa
 **Method**-->.readline(size=-1):
     This reads at most size number of characters from the line. This continues to the end of the line and then wraps back around. If no argument is passed or None or -1 is passed, then the entire line (or rest of the line) is read
     
-**Briefly describe the concept of exception handling in Python. How can the ‘try’, ‘except’, and ‘finally’ blocks be used to handle exceptions and ensure proper execution of code? Provide a simple example.**
+**3-Briefly describe the concept of exception handling in Python. How can the ‘try’, ‘except’, and ‘finally’ blocks be used to handle exceptions and ensure proper execution of code? Provide a simple example.**
 ![expcption](exption.webp)
 ```
 try:
